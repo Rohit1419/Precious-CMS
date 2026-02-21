@@ -15,10 +15,7 @@
     "sanity"
   ],
   "dependencies": {
-    "@sanity/client": "^7.15.0",
-    "@sanity/image-url": "^2.0.3",
     "@sanity/vision": "^5.11.0",
-    "next-sanity": "^12.1.0",
     "react": "^19.1",
     "react-dom": "^19.1",
     "sanity": "^5.11.0",
@@ -26,7 +23,6 @@
   },
   "devDependencies": {
     "@sanity/eslint-config-studio": "^6.0.0",
-    "@sanity/types": "^5.11.0",
     "@types/react": "^19.1",
     "eslint": "^9.28",
     "prettier": "^3.5",
